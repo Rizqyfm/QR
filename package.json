@@ -1,0 +1,23 @@
+{
+  "name": "qr",
+  "version": "1.0.0",
+  "description": "![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rizqyfm/QR.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rizqyfm/QR/issues"
+  },
+  "homepage": "https://github.com/Rizqyfm/QR#readme",
+  "dependencies": {
+    "tailwindcss": "^3.0.18"
+  }
+}
