@@ -12,6 +12,15 @@ module.exports = {
         'DB': 'hsl(218, 44%, 22%)',
         'blu': 'hsl(228, 45%, 44%)',
       },
+      screens: {
+        'phone': '414px',
+        'tablet': '768px',
+        'laptop': '1024px',
+        'desktop': '1280px',
+      },
+      fontSize: {
+        'watermark': '0.625rem',
+      },
     },
   },
   plugins: [],
